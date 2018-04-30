@@ -44,3 +44,9 @@
 [submodule "plugins/reports/counter/classes/COUNTER"]
 	path = plugins/reports/counter/classes/COUNTER
 	url = https://github.com/ulsdevteam/COUNTER.git
+[submodules "plugins/themes/bootstrap3"]
+	path = plugins/themes/bootstrap3
+	url = https://github.com/IUPUI-Libraries/ojs-bootstrap3.git
+[submodules "plugins/themes/iupuibootstrap3"]
+	path = plugins/themes/iupuibootstrap3
+	url = https://github.com/IUPUI-Libraries/ojs-iupuibootstrap3.git
